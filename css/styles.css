@@ -1,15 +1,15 @@
 h1 {
-    color: blue;
+    color:midnightblue;
     text-align: center;
   }
   h2 {
     font-style: italic;
     text-align: center;
-    color: teal;
+    color: rgb(77, 175, 32);
   }
   p {
-    color: gray;
+    color: rgb(20, 20, 20);
   }
   body {
-    background-color: skyblue;
+    background-color:rgb(217, 255, 192)
   }
